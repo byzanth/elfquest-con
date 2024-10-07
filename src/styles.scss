@@ -1,0 +1,64 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+  --navBackgroundColor: #fed466;
+  --backgroundColor1: #9ab3d7;
+  --backgroundColor2: #a589ba;
+  --pageBackgroundColor: white;
+  --pageBorderWidth: 3px;
+  --desktopWidth: 1200px;
+  --pagePadding: 20px;
+}
+
+body {
+  font-size: 120%;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+p, div {
+  text-align: justify;
+}
+
+h1 {
+  padding-top: 0;
+  margin-top: 0;
+  background-color: var(--backgroundColor1);
+}
+h1, h2 {
+  text-align: left;
+}
+
+.page {
+  display: block;
+  overflow: hidden;
+  margin: auto;
+  padding-left: var(--pagePadding);
+  padding-right: var(--pagePadding);
+  border: var(--pageBorderWidth) solid var(--navBackgroundColor);
+  background-color: var(--pageBackgroundColor);
+}
+
+.page > h1 {
+  padding: 20px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.content-container {
+  display: block;
+  width: 100%;
+  background-image: linear-gradient(to bottom right, var(--backgroundColor1), var(--backgroundColor2));
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 1200px) {
+  .page {
+    border-radius: var(--pagePadding);
+    margin-top: 30px;
+    max-width: calc(var(--desktopWidth) - 40px);
+  }
+  .content-container {
+    padding-bottom: 30px;
+  }
+}
