@@ -1,6 +1,6 @@
 # ElfquestCon2025
 
-This project generates an info page for the elfquest convention 2025 in english and german. The page can be visited here: <http://elfquest-con.de>
+This project generates an info page for the elfquest convention 2025 in english and german. The page can be visited here: <http://2025.elfquest-con.de>
 
 ## Legal
 
