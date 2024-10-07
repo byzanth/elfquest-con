@@ -11,15 +11,13 @@
   },
   "faq": {
     "bedclothes": {
-      "header": "Muß man Bettzeug selber mitbringen?",
-      "text": "Ja, muss man mitbringen. Schlafsäcke sind nicht erlaubt. Wenn jemand keine mitbringen kann, bitte rechtzeitig Bescheid geben, damit man was arrangieren kann."
+      "header": "Was muss ich mitbringen?",
+      "text": "Mitzubringen sind Bettdecke oder Schlafsack, Matratzenbezug, Kissenbezug und Handtücher. Ja, wirklich, Bettdecke oder Schlafsack mitbringen, also das dicke warme große Ding. Im Forum gibt es einen Bettzeug-Tauschhandel-Thread, vielleicht können Zwootelfen mit Transportmöglichkeiten den Bahnelfen unter die Arme greifen?"
     },
     "costs": {
-      "adults": "Erwachsene",
+      "adults": "Erwachsene: 125 Euro (4 Nächte) / 95 Euro (3 Nächte)",
       "header": "Wieviel kostet die Con?",
-      "kids": "Teilnehmer bis 6 Jahre",
-      "teens": "Teilnehmer bis 13 Jahre",
-      "youngAdults": "Teilnehmer bis 20 Jahre"
+      "kids": "Teilnehmer bis 11 Jahre: 110 Euro (4 Nächte) / 80 Euro (3 Nächte)"
     },
     "daytimeGuest": {
       "header": "Kann man auch als Tagesgast kommen?",
@@ -28,23 +26,27 @@
     "header": "FAQ",
     "organizer": {
       "header": "Wer ist die Orga?",
-      "text": "Für 2023 haben sich mehrere Elfen / Trolle / Bewahrer bereitgefunden sich in verschiedene Orga-Aufgaben hineinzuteilen."
+      "text": "Für 2024 haben sich mehrere Elfen / Trolle / Bewahrer bereitgefunden sich in verschiedene Orga-Aufgaben hineinzuteilen."
     },
     "pets": {
       "header": "Wie ist das mit Haustieren? Darf ich die mitbringen?",
-      "text": "Das klärt man am besten mit der Orga. Bislang war es so, daß Tiere auf dem (Außen-)Gelände zwar erlaubt sind, nicht jedoch in den Räumlichkeiten."
+      "text": "Das klärt man am besten mit der Orga."
     },
     "registration": {
       "header": "Wo finde ich die Anmeldung? Wie läuft der Anmeldeprozeß ab?",
       "text": "Die Anmeldung findet Ihr als Formular auf der Website. Die Teilnahmebedingungen sind zu lesen, das Formular auszufüllen und an die dort benannte Adresse zu senden (postalisch oder elektronisch). Wenn die Anmeldung eingegangen ist und alles paßt, erhält man die Kontodaten für die Überweisung. Hat man diese korrekt getätigt, ist man korrekt angemeldet. (Der Stand dazu wird üblicherweise im Forum ab und zu aktualisiert.)"
     },
+    "selfcatering": {
+      "header": "Was heißt \"Selbstversorger-Con\"?",
+      "text": "Eigentlich heißt es besser Selbstkocher-Con: Im Con-Beitrag sind alle Mahlzeiten und eine Küche enthalten, wir müssen nur alles selbst zubereiten. Bitte plant helfen ein. :-)"
+    },
     "when": {
       "header": "Wann findet die Con statt?",
-      "text": "Vom 26. - 29. Mai 2023 (Pfingsten)"
+      "text": "16.-20.05.2024 bzw. 17.-20.05.2024 (Pfingsten)"
     },
     "where": {
       "header": "Wo findet die Con statt?",
-      "text": "Im Freizeitheim Wartenberg bei Witten in Nordrhein-Westfalen. Dort haben auch schon die Cons 2012, 2014 und 2016, 2018 und 2021 stattgefunden."
+      "text": "Die Con findet dieses Jahr im Petershof in Erbuch (Hessen) statt. Diese Con wird eine Selbstversorger-Con."
     },
     "workshops": {
       "header": "Wird es Workshops und die üblichen Aktionen geben?",
@@ -54,29 +56,20 @@
   "links": {
     "forum": "Forum",
     "header": "Links",
+    "petershof": "Petershof Erbuch",
     "registration": "Anmeldung",
-    "scrollOfColors": "Die Rolle der Farben (Archiv der vergangenen Cons)",
-    "wartenberg": "Freizeitheim Wartenberg"
+    "scrollOfColors": "Die Rolle der Farben (Archiv der vergangenen Cons)"
   },
   "location": {
-    "catering": {
-      "header": "Verpflegung",
-      "text": "Die Vollverpflegung erfolgt im großen Essensraum, oder wenn gegrillt wird, im bestuhlten Außenbereich. Die Erfahrung der letzten Cons hat gezeigt, daß essenstechnisch auch Vegetarier, Veganer und Allergiker satt geworden sind. Das Haupthaus verfügt über zwei große Aufenthaltsräume, die Platz für Workshops sowie Spielrunden bieten. Wenn das Wetter so gut ist, wie in den letzten Jahren, werden wir aber sowieso die meiste Zeit draußen verbringen. ;-)"
-    },
-    "entry": "Was soll man zum Freizeitheim Wartenberg noch sagen? 2012, 2014, 2016, 2018 und 2021 haben dort schon bis zu 60 Elfen Platz gefunden und waren dabei ungestört, da das Freizeitheim von uns allein genutzt wird – es ist also exklusiv gebucht.",
-    "header": "Unterkunft",
-    "surroundings": {
-      "header": "Umgebung",
-      "text": "Für die stetig wachsende Kinderschar bietet das Freizeitheim Außenanlagen und ein großes Hüpfkissen an. Außerdem bietet das Außengelände eine überdachte Feuerstelle, für lauschige Abende und einen das Gelände umgebenden, eigens für Larper gepflanzten Wald :P."
-    }
+    "entry": "Der Petershof ist ein interessanter und rustikaler Fuchsbau mit gut ausgestatteter Küche, 60 Betten, vielen Gruppenräumen, viel Natur drumherum und einer Feuerstelle.",
+    "header": "Unterkunft"
   },
   "start": {
-    "entry": "Auch für das Jahr 2023 erschallt ein Ruf durch Wald, Wüste, über Steppen und Schneefelder",
-    "greeting": "Viel Spaß auf der Seite der ElfQuest Con 2023 wünscht eure Orga",
-    "header": "Willkommen zur 24. europäischen ElfQuest-Convention",
+    "greeting": "Viel Spaß auf der Seite der ElfQuest Con 2024 wünscht eure Orga",
+    "header": "Willkommen zur 25. europäischen ElfQuest-Convention",
     "nav": "Start",
-    "slogan": "One tribe ★ one holt.",
-    "subheader": "vom 26. - 29. Mai 2023 (Pfingsten) im Freizeitheim Wartenberg, Witten",
-    "welcome": "Entsprechend diesem Motto seid Ihr alle eingeladen in den Elfenhain zu kommen, zu lachen, zu tanzen und zu singen, Spiele zu spielen, herumzualbern, wettzueifern oder kreativ zu malen und schreiben. Als ein Stamm, neu und alt, alle sind willkommen."
+    "slogan": "A Generation of Memories",
+    "subheader": "16./17.-20.05.2024 (Pfingsten) im Petershof in Erbuch.",
+    "welcome": "Es gibt die Möglichkeit, eine Nacht länger zu bleiben, wer kann und möchte. Diese Con wird eine Selbstversorger-Con."
   }
 }

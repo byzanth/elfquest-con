@@ -11,15 +11,13 @@
   },
   "faq": {
     "bedclothes": {
-      "header": "Do I have to bring my own bed clothes?",
-      "text": "Yes, you have to bring. Sleeping bags are not allowed. If someone can't bring one, please let us know in time so that something can be arranged."
+      "header": "What do I have to bring?",
+      "text": "Bring a duvet or sleeping bag, mattress cover, pillowcase and towels. Yes, really, bring a duvet or sleeping bag, the thick warm big thing. There's a bedding swap thread in the forum, maybe two elves with transport facilities can help the railway elves?"
     },
     "costs": {
-      "adults": "Adults",
+      "adults": "Adults: 125 Euro (4 nights) / 95 Euro (3 nights)",
       "header": "How much does the con cost?",
-      "kids": "Participants up to 6 years",
-      "teens": "Participants up to 13 years",
-      "youngAdults": "Participants up to 20 years"
+      "kids": "Participants up to 11 years: 110 Euro (4 nights) / 80 Euro (3 nights)"
     },
     "daytimeGuest": {
       "header": "Is it possible to come as a day guest?",
@@ -28,23 +26,27 @@
     "header": "FAQ",
     "organizer": {
       "header": "Who is the organizing the event?",
-      "text": "For 2023, several elves / trolls / preservers have agreed to be involved in various organization tasks."
+      "text": "For 2024, several elves / trolls / preservers have agreed to be involved in various organization tasks."
     },
     "pets": {
       "header": "What about pets? Can I bring them with me?",
-      "text": "This is best clarified with the organizers. Up to now, it was the case that animals were allowed on the outdoor grounds, but not on the premises."
+      "text": "This is best clarified with the organizers."
     },
     "registration": {
       "header": "Where can I find the registration? How does the registration process work?",
       "text": "You can find the registration form on the website. Please read the conditions of participation, fill in the form and send it to the address mentioned there (by post or electronically). If the registration has been received and everything fits, you will receive the account data for the bank transfer. If you have done this correctly, you are registered correctly. (The status is usually updated in the forum from time to time)."
     },
+    "selfcatering": {
+      "header": "What does \"self-catering con\" mean?",
+      "text": "Actually, it's better called a self-cooking con: the con fee includes all meals and a kitchen, we just have to prepare everything ourselves. Please plan to help. :-)"
+    },
     "when": {
       "header": "When will the con take place?",
-      "text": "From 26 - 29 May 2023 (Pentecost)"
+      "text": "From 16 - 20 May 2024 (Pentecost)"
     },
     "where": {
       "header": "Where will the con take place?",
-      "text": "In the youth hostel in Wartenberg near Witten in North Rhine-Westphalia. The Cons 2012, 2014 and 2016, 2018 and 2021 have also taken place there."
+      "text": "This year's convention will take place at Petershof in Erbuch (Hessen). This convention will be a self-catering con."
     },
     "workshops": {
       "header": "Will there be workshops and the usual promotions?",
@@ -54,29 +56,20 @@
   "links": {
     "forum": "Forum",
     "header": "Links",
+    "petershof": "Petershof Erbuch",
     "registration": "Registration",
-    "scrollOfColors": "The Scroll of colors (archive of past cons - german only)",
-    "wartenberg": "Youth hostel Wartenberg"
+    "scrollOfColors": "The Scroll of colors (archive of past cons - german only)"
   },
   "location": {
-    "catering": {
-      "header": "Catering",
-      "text": "The full catering takes place in the large dining room, or if there is a barbecue, in the outdoor seating area. The experience of the last Cons has shown that also vegetarians, vegans and allergy sufferers are satisfied with the food. The main house has two large lounges, which offer space for workshops as well as game rounds. If the weather is as good as in the last years, we will spend most of our time outside anyway ;-)"
-    },
-    "entry": "What is there to say to the youth hostel in Wartenberg? In 2012, 2014, 2016, 2018 and 2021 up to 60 elves were accommodated there undisturbed, since the house was used by us exclusively.",
-    "header": "Location",
-    "surroundings": {
-      "header": "Surroundings",
-      "text": "For the ever-growing crowd of children, the recreation center offers outdoor facilities and a large bouncy cushion. In addition, the outdoor area offers a covered fireplace, for cozy evenings and a surrounding forest planted especially for Larpers :P."
-    }
+    "entry": "The Petershof is an interesting and rustic fox house with a well-equipped kitchen, 60 beds, many group rooms, lots of nature around it and a fireplace.",
+    "header": "Location"
   },
   "start": {
-    "entry": "Also for 2023 a call resounds through forests, deserts, over steppes and snowy plains",
-    "greeting": "Enjoy the page for the ElfQuest Con 2023; Yours, the organization team",
-    "header": "Welcome to the 24. European ElfQuest Convention",
+    "greeting": "Enjoy the page for the ElfQuest Con 2024; Yours, the organization team",
+    "header": "Welcome to the 25. European ElfQuest Convention",
     "nav": "Start",
-    "slogan": "One tribe ★ one holt.",
-    "subheader": "from 26th - 29th of May, 2023 (Pentecost) in the youth hostel Wartenberg near Witten, Germany",
-    "welcome": "According to this slogan you all are invited to come to the elven holt, to laugh, to dance and sing, to play games, to clown around, to vie playfully, to be creative and paint or write poetry or stories. As one tribe, new and old, everyone is welcome."
+    "slogan": "A Generation of Memories",
+    "subheader": "16/17-20 May 2024 (Pentecost) at the Petershof in Erbuch, Germany",
+    "welcome": "There is the possibility to stay an extra night if you can and want to. This con will be a self-catering con."
   }
 }
