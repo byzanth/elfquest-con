@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/elfquest-con-2023'),
+      dir: require('path').join(__dirname, './coverage/elfquest-con-2025'),
       subdir: '.',
       reporters: [
         { type: 'html' },

@@ -12,12 +12,12 @@
   "faq": {
     "bedclothes": {
       "header": "Was muss ich mitbringen?",
-      "text": "Mitzubringen sind Bettdecke oder Schlafsack, Matratzenbezug, Kissenbezug und Handtücher. Ja, wirklich, Bettdecke oder Schlafsack mitbringen, also das dicke warme große Ding. Im Forum gibt es einen Bettzeug-Tauschhandel-Thread, vielleicht können Zwootelfen mit Transportmöglichkeiten den Bahnelfen unter die Arme greifen?"
+      "text": "Mitzubringen sind Schlafsack oder Bettdecke, Matratzenbezug und Handtücher, da sind Kopfkissen und Wolldecke. Ja, wirklich, Bettdecke oder Schlafsack mitbringen, also das dicke warme große Ding. Im Forum gibt es einen Bettzeug-Tauschhandel-Thread, vielleicht können Zwootelfen mit Transportmöglichkeiten den Bahnelfen unter die Arme greifen?"
     },
     "costs": {
-      "adults": "Erwachsene: 125 Euro (4 Nächte) / 95 Euro (3 Nächte)",
       "header": "Wieviel kostet die Con?",
-      "kids": "Teilnehmer bis 11 Jahre: 110 Euro (4 Nächte) / 80 Euro (3 Nächte)"
+      "adults": "Erwachsene: 150 Euro",
+      "kids": "Teilnehmer bis 15 Jahre: 120 Euro"
     },
     "daytimeGuest": {
       "header": "Kann man auch als Tagesgast kommen?",
@@ -26,27 +26,27 @@
     "header": "FAQ",
     "organizer": {
       "header": "Wer ist die Orga?",
-      "text": "Für 2024 haben sich mehrere Elfen / Trolle / Bewahrer bereitgefunden sich in verschiedene Orga-Aufgaben hineinzuteilen."
+      "text": "Für 2025 haben sich mehrere Elfen / Trolle / Bewahrer bereitgefunden sich in verschiedene Orga-Aufgaben hineinzuteilen."
     },
     "pets": {
       "header": "Wie ist das mit Haustieren? Darf ich die mitbringen?",
-      "text": "Das klärt man am besten mit der Orga."
+      "text": "Hunde dürfen aufs Gelände, aber nicht in bestimmte Gebäude. Wer einen Hund mitbringt sollte an Impfpass denken und sich informieren. Im Zweifel fragt gerne die Orga."
     },
     "registration": {
       "header": "Wo finde ich die Anmeldung? Wie läuft der Anmeldeprozeß ab?",
-      "text": "Die Anmeldung findet Ihr als Formular auf der Website. Die Teilnahmebedingungen sind zu lesen, das Formular auszufüllen und an die dort benannte Adresse zu senden (postalisch oder elektronisch). Wenn die Anmeldung eingegangen ist und alles paßt, erhält man die Kontodaten für die Überweisung. Hat man diese korrekt getätigt, ist man korrekt angemeldet. (Der Stand dazu wird üblicherweise im Forum ab und zu aktualisiert.)"
+      "text": "Die Anmeldung findet Ihr als pdf zum Herunterladen auf der Website. Die Teilnahmebedingungen sind zu lesen, das pdf auszufüllen und postalisch an die dort benannte Adresse zu senden. Der Stand eurer Anmeldung wird im Forum aktualisiert. Achtung! Wir behalten uns vor, die Con abzusagen, wenn bis zum 08.12.24 zu wenige Anmeldungen eingegangen sind (die Location lässt sich bis Ende Dezember für 250 Franken stornieren, danach werden 40% des Vertragspreises fällig)."
     },
     "selfcatering": {
-      "header": "Was heißt \"Selbstversorger-Con\"?",
-      "text": "Eigentlich heißt es besser Selbstkocher-Con: Im Con-Beitrag sind alle Mahlzeiten und eine Küche enthalten, wir müssen nur alles selbst zubereiten. Bitte plant helfen ein. :-)"
+      "header": "Woher kommt das Essen?",
+      "text": "Es wird wieder eine Selbstkocher-Con: Im Con-Beitrag sind alle Mahlzeiten und eine Küche enthalten, wir müssen nur alles selbst zubereiten (ist einfach günstiger zu buchen). Wir haben drei Chefkocher, aber plant gerne das Helfen ein. :-)"
     },
     "when": {
       "header": "Wann findet die Con statt?",
-      "text": "16.-20.05.2024 bzw. 17.-20.05.2024 (Pfingsten)"
+      "text": "Die Con findet vom 06. - 09.06.2025 statt."
     },
     "where": {
       "header": "Wo findet die Con statt?",
-      "text": "Die Con findet dieses Jahr im Petershof in Erbuch (Hessen) statt. Diese Con wird eine Selbstversorger-Con."
+      "text": "Die Con findet dieses Jahr in der Wartburg am Bodensee in der Schweiz statt. Hinweis für alle Anreisenden aus der EU: bitte an Ausweise denken, auch für die Kinder. Es ist keine Vignette nötig. Bei der Einreise in die Schweiz sind einige Regeln zu beachten, z.B. darf an Alkohol (über 18%) max. 1l pro volljähriger Person mit sich geführt werden. Macht euch auch gerne selbst schlau, unter \"Links\" findet ihr weitere Infos."
     },
     "workshops": {
       "header": "Wird es Workshops und die üblichen Aktionen geben?",
@@ -56,20 +56,26 @@
   "links": {
     "forum": "Forum",
     "header": "Links",
-    "petershof": "Petershof Erbuch",
+    "subheader": "Wichtig für die Schweiz",
+    "location": "Wartburg am Bodensee",
     "registration": "Anmeldung",
+    "importRegulations": "Allgemeine Einfuhrbestimmungen",
+    "allowancesForFoodAlcoholTobacco": "Freimengen Lebensmittel, Alkohol und Tabak",
+    "allowancesForFuel": "Freimengen Treibstoff (Tankinhalt und 25 l Kanister)",
+    "valueFreeLimit": "Wertfreigrenze (300 Franken)",
+    "shoppingTourism": "Einkaufstourismus",
     "scrollOfColors": "Die Rolle der Farben (Archiv der vergangenen Cons)"
   },
   "location": {
-    "entry": "Der Petershof ist ein interessanter und rustikaler Fuchsbau mit gut ausgestatteter Küche, 60 Betten, vielen Gruppenräumen, viel Natur drumherum und einer Feuerstelle.",
+    "entry": "für Bahnreisende: Bahnanreise bis Konstanz (DE) oder Mannenbach-Salenstein (CH)",
     "header": "Unterkunft"
   },
   "start": {
-    "greeting": "Viel Spaß auf der Seite der ElfQuest Con 2024 wünscht eure Orga",
-    "header": "Willkommen zur 25. europäischen ElfQuest-Convention",
+    "greeting": "Viel Spaß auf der Seite der ElfQuest Con 2025 wünscht eure Orga",
+    "header": "Willkommen zur 26. europäischen ElfQuest-Convention",
     "nav": "Start",
-    "slogan": "A Generation of Memories",
-    "subheader": "16./17.-20.05.2024 (Pfingsten) im Petershof in Erbuch.",
-    "welcome": "Es gibt die Möglichkeit, eine Nacht länger zu bleiben, wer kann und möchte. Diese Con wird eine Selbstversorger-Con."
+    "slogan": "Zurück in den verbotenen Hain",
+    "subheader": "06. - 09.06.2025 auf der Wartburg am Bodensee (Schweiz)",
+    "welcome": "Diese Con wird eine Selbstversorger-Con."
   }
 }

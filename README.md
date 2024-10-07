@@ -1,6 +1,6 @@
-# ElfquestCon2024
+# ElfquestCon2025
 
-This project generates an info page for the elfquest convention 2024 in english and german. The convention is already over, but the page can still be visited here: <http://2024.elfquest-con.de>
+This project generates an info page for the elfquest convention 2025 in english and german. The convention is already over, but the page can still be visited here: <http://2025.elfquest-con.de>
 
 ## Legal
 
