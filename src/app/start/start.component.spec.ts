@@ -14,7 +14,10 @@ describe('StartComponent', () => {
     public use = () => { return true; };
   }
 
-  @Pipe({name: 'translate'})
+  @Pipe({
+    name: 'translate',
+    standalone: false
+})
   class TranslatePipeMock implements PipeTransform {
     transform(value: number): number {
       return value;
