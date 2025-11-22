@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { TranslateService } from '@ngx-translate/core';
 
 @Component({
@@ -9,9 +9,10 @@ import { TranslateService } from '@ngx-translate/core';
 export class NavigationComponent {
 
   public languageInUse: string | null = null;
+  private translate = inject(TranslateService);
 
-  public constructor(private translate: TranslateService) {
-    this.languageInUse = translate.currentLang;
+  public constructor() {
+    this.languageInUse = this.translate.currentLang;
   }
 
   public useLanguage(language: string) {

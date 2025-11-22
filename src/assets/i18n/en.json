@@ -30,7 +30,7 @@
     },
     "pets": {
       "header": "What about pets? Can I bring them with me?",
-      "text": "Dogs are allowed on the grounds, but not in certain buildings. Anyone bringing a dog should remember to bring a vaccination certificate and inform themselves. If in doubt, please ask the organisers."
+      "text": "Dogs are allowed on the grounds, but not in certain buildings. Anyone bringing a dog should remember to bring a vaccination certificate and inform themselves. If in doubt, please ask the organizers."
     },
     "registration": {
       "header": "Where can I find the registration? How does the registration process work?",
@@ -46,7 +46,7 @@
     },
     "where": {
       "header": "Where will the con take place?",
-      "text": "This year's convention will take place at Wartburg Castle on Lake Constance in Switzerland. Note for all travellers from the EU: please remember to bring ID, also for the children. No vignette is required. There are some rules to be observed when entering Switzerland, e.g. a maximum of 1 litre of alcohol (over 18%) may be carried per adult. You can also find out for yourself under \"links\" for more information."
+      "text": "This year's convention will take place at Wartburg Castle on Lake Constance in Switzerland. Note for all travelers from the EU: please remember to bring ID, also for the children. No vignette is required. There are some rules to be observed when entering Switzerland, e.g. a maximum of 1 litre of alcohol (over 18%) may be carried per adult. You can also find out for yourself under \"links\" for more information."
     },
     "workshops": {
       "header": "Will there be workshops and the usual promotions?",
@@ -67,7 +67,7 @@
     "scrollOfColors": "The Scroll of colors (archive of past cons - german only)"
   },
   "location": {
-    "entry": "For rail travellers: rail journey to Constance (DE) or Mannenbach-Salenstein (CH)",
+    "entry": "For rail travelers: rail journey to Constance (DE) or Mannenbach-Salenstein (CH)",
     "header": "Location"
   },
   "start": {
