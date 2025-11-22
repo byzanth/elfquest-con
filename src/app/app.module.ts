@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { HttpClientModule, HttpClient } from '@angular/common/http';
+import { HttpClient, provideHttpClient, withInterceptorsFromDi } from '@angular/common/http';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { TranslateModule, TranslateLoader, TranslatePipe } from '@ngx-translate/core';
@@ -19,32 +19,25 @@ export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http);
 }
 
-@NgModule({
-  declarations: [
-    AppComponent,
-    HomepageComponent,
-    LocationComponent,
-    FaqComponent,
-    StartComponent,
-    CreditsComponent,
-    NavigationComponent,
-    LinksComponent
-  ],
-  imports: [
-    BrowserModule,
-    HttpClientModule,
-    RouterModule.forRoot([
-      {path: '', component: HomepageComponent}
-    ]),
-    TranslateModule.forRoot({
-      loader: {
-        provide: TranslateLoader,
-          useFactory: HttpLoaderFactory,
-          deps: [HttpClient]
-      }
-    })
-  ],
-  providers: [TranslatePipe],
-  bootstrap: [AppComponent]
-})
+@NgModule({ declarations: [
+        AppComponent,
+        HomepageComponent,
+        LocationComponent,
+        FaqComponent,
+        StartComponent,
+        CreditsComponent,
+        NavigationComponent,
+        LinksComponent
+    ],
+    bootstrap: [AppComponent], imports: [BrowserModule,
+        RouterModule.forRoot([
+            { path: '', component: HomepageComponent }
+        ]),
+        TranslateModule.forRoot({
+            loader: {
+                provide: TranslateLoader,
+                useFactory: HttpLoaderFactory,
+                deps: [HttpClient]
+            }
+        })], providers: [TranslatePipe, provideHttpClient(withInterceptorsFromDi())] })
 export class AppModule { }
