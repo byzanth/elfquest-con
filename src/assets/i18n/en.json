@@ -12,12 +12,12 @@
   "faq": {
     "bedclothes": {
       "header": "What do I have to bring?",
-      "text": "You need to bring a sleeping bag or duvet, mattress cover and towels, as well as a pillow and woollen blanket. Yes, really, bring a duvet or sleeping bag, the thick warm big thing. There's a bedding swap thread in the forum, maybe two zwoot elves can help the railway elves?"
+      "text": "Bring a duvet or sleeping bag, mattress cover, pillowcase and towels. Yes, really, bring a duvet or sleeping bag, the thick warm big thing. There's a bedding swap thread in the forum, maybe two elves with transport facilities can help the railway elves?"
     },
     "costs": {
       "header": "How much does the con cost?",
-      "adults": "Adults: 150",
-      "kids": "Participants up to 15 years: 120"
+      "adults": "Participants 14 years and older: 135 Euro (3 nights) / 155 Euro (4 nights)",
+      "kids": "Participants up to 13 years: 115 Euro (3 nights) / 135 Euro (4 nights)"
     },
     "daytimeGuest": {
       "header": "Is it possible to come as a day guest?",
@@ -26,27 +26,27 @@
     "header": "FAQ",
     "organizer": {
       "header": "Who is the organizing the event?",
-      "text": "For 2025, several elves / trolls / preservers have agreed to be involved in various organization tasks."
+      "text": "For 2026, several elves / trolls / preservers have agreed to be involved in various organization tasks."
     },
     "pets": {
       "header": "What about pets? Can I bring them with me?",
-      "text": "Dogs are allowed on the grounds, but not in certain buildings. Anyone bringing a dog should remember to bring a vaccination certificate and inform themselves. If in doubt, please ask the organizers."
+      "text": "This is best clarified with the organizers."
     },
     "registration": {
       "header": "Where can I find the registration? How does the registration process work?",
-      "text": "You can download the registration form as a pdf from the website. Please read the conditions of participation, fill in the pdf and send it by post to the address given there. The status of your registration will be updated in the forum. Attention! We reserve the right to cancel the con if too few registrations have been received by 08.12.24 (the location can be cancelled until the end of December for 250 francs, after that 40% of the contract price will be due)."
+      "text": "You can find the registration form on the website. Please read the conditions of participation, fill in the form and send it to the address mentioned there (by post or electronically). The bank account data can be found on the registration form. The registration status is usually updated in the forum from time to time."
     },
     "selfcatering": {
       "header": "Where does the food come from?",
-      "text": "It will be a self-catering con again: the con fee includes all meals and a kitchen, we just have to prepare everything ourselves (it's just cheaper to book). We have three chefs, but please plan on helping. :-)"
+      "text": "It will be a self-catering con again: the con fee includes all meals and a kitchen, we just have to prepare everything ourselves (it's just cheaper to book). Please plan to help. :-)"
     },
     "when": {
       "header": "When will the con take place?",
-      "text": "The convention will take place from 06 - 09 June 2025."
+      "text": "The convention will take place from 22 - 25 June 2026."
     },
     "where": {
       "header": "Where will the con take place?",
-      "text": "This year's convention will take place at Wartburg Castle on Lake Constance in Switzerland. Note for all travelers from the EU: please remember to bring ID, also for the children. No vignette is required. There are some rules to be observed when entering Switzerland, e.g. a maximum of 1 litre of alcohol (over 18%) may be carried per adult. You can also find out for yourself under \"links\" for more information."
+      "text": "This year's convention will take place at Petershof in Erbuch (Hessen). This convention will be a self-catering con."
     },
     "workshops": {
       "header": "Will there be workshops and the usual promotions?",
@@ -56,26 +56,20 @@
   "links": {
     "forum": "Forum",
     "header": "Links",
-    "subheader": "Important for Switzerland",
-    "location": "Wartburg Castle on Lake Constance",
+    "location": "Petershof Erbuch",
     "registration": "Registration",
-    "importRegulations": "General import regulations",
-    "allowancesForFoodAlcoholTobacco": "Food, alcohol and tobacco allowances",
-    "allowancesForFuel": "Fuel allowances",
-    "valueFreeLimit": "Value-free limit",
-    "shoppingTourism": "Shopping tourism",
     "scrollOfColors": "The Scroll of colors (archive of past cons - german only)"
   },
   "location": {
-    "entry": "For rail travelers: rail journey to Constance (DE) or Mannenbach-Salenstein (CH)",
+    "entry": "The Petershof is an interesting and rustic fox house with a well-equipped kitchen, 60 beds, many group rooms, lots of nature around it and a fireplace.",
     "header": "Location"
   },
   "start": {
-    "greeting": "Enjoy the page for the ElfQuest Con 2025; Yours, the organization team",
-    "header": "Welcome to the 26. European ElfQuest Convention",
+    "greeting": "Enjoy the page for the ElfQuest Con 2026! Yours, the organization team",
+    "header": "Welcome to the 27. European ElfQuest Convention",
     "nav": "Start",
-    "slogan": "Back to the forbidden grove",
-    "subheader": "06 - 09 June 2025 at Wartburg Castle on Lake Constance (Switzerland)",
+    "slogan": "Keep on Dreaming",
+    "subheader": "22 - 25 June 2026 at Petershof in Erbuch",
     "welcome": "This con will be a self-catering con."
   }
 }

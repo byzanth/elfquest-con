@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "elfquest-con-2025": {
+    "elfquest-con-2026": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -21,7 +21,7 @@
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": {
-              "base": "dist/elfquest-con-2025"
+              "base": "dist/elfquest-con-2026"
             },
             "index": "src/index.html",
             "polyfills": [
@@ -74,10 +74,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "elfquest-con-2025:build:production"
+              "buildTarget": "elfquest-con-2026:build:production"
             },
             "development": {
-              "buildTarget": "elfquest-con-2025:build:development"
+              "buildTarget": "elfquest-con-2026:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -85,7 +85,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "elfquest-con-2025:build"
+            "buildTarget": "elfquest-con-2026:build"
           }
         },
         "test": {
