@@ -1,13 +1,12 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
+import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
     selector: 'app-start',
     templateUrl: './start.component.html',
     styleUrls: ['./start.component.scss'],
-    standalone: false
+    standalone: true,
+    imports: [TranslateModule]
 })
 export class StartComponent {
-
-  constructor() { }
-
 }

@@ -1,11 +1,12 @@
 import { Component, inject } from '@angular/core';
-import { TranslateService } from '@ngx-translate/core';
+import { TranslateModule, TranslateService } from '@ngx-translate/core';
 
 @Component({
     selector: 'app-navigation',
     templateUrl: './navigation.component.html',
     styleUrls: ['./navigation.component.scss'],
-    standalone: false
+    standalone: true,
+    imports: [TranslateModule]
 })
 export class NavigationComponent {
 
