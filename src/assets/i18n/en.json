@@ -12,7 +12,7 @@
   "faq": {
     "bedclothes": {
       "header": "What do I have to bring?",
-      "text": "Please bring a three-piece set of bed linen (i.e. a sheet and pillowcases and duvet covers; sleeping bags are not permitted). Alternatively, bed linen can be hired on site for an additional charge of €7.50."
+      "text": "Please bring a three-piece set of bed linen (i.e. a sheet and pillowcases and duvet covers; sleeping bags are not permitted). Alternatively, bed linen can be hired on site for an additional charge of 7.50 Euro."
     },
     "costs": {
       "header": "How much does the con cost?",
@@ -36,7 +36,7 @@
     },
     "registration": {
       "header": "Where can I find the registration? How does the registration process work?",
-      "text": "You can find the registration form on the website. Please read the conditions of participation, fill in the form and send it to the address mentioned there (by post or electronically). The bank account data can be found on the registration form. The registration status is usually updated in the forum from time to time."
+      "text": "You can find the registration form on this website. Please read the conditions of participation, fill in the form and send it to the address mentioned there (by post or electronically). The bank account data can be found on the registration form. The registration status is usually updated in the forum from time to time."
     },
     "selfcatering": {
       "header": "Where does the food come from?",
@@ -56,14 +56,14 @@
     }
   },
   "links": {
-    "forum": "Forum",
+    "forum": "Convention Forum ('The Father Tree')",
     "header": "Links",
     "location": "Norken School Camp",
     "registration": "Registration",
     "scrollOfColors": "The Scroll of colors (archive of past cons - german only)"
   },
   "location": {
-    "entry": "The Norken School Camp is situated on the outskirts of the parish of Norken, on a ridge at an altitude of 460 metres. Walking trails leading into the Westerwald countryside start right on the doorstep. Just a ten-minute drive away lies the town of Hachenburg, with its medieval castle and charming pedestrianised high street offering plenty of shopping opportunities.",
+    "entry": "The Norken School Camp is situated on the outskirts of the parish of Norken (Köln-Leipziger-Straße 1, 57629 Norken), on a ridge at an altitude of 460 metres. Walking trails leading into the Westerwald countryside start right on the doorstep. Just a ten-minute drive away lies the town of Hachenburg, with its medieval castle and charming pedestrianised high street offering plenty of shopping opportunities.",
     "header": "Location"
   },
   "start": {

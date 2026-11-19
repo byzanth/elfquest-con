@@ -12,10 +12,10 @@
   "faq": {
     "bedclothes": {
       "header": "Was muss ich mitbringen?",
-      "text": "Mitzubringen ist dreiteilige Bettwäsche (also Bettlaken und Bezüge für Kopfkissen und Decke; Schlafsäcke nicht erlaubt). Alternativ kann vor Ort gegen Aufpreis von 7,50€ die Bettwäsche auch geliehen werden."
+      "text": "Mitzubringen ist dreiteilige Bettwäsche (also Bettlaken und Bezüge für Kopfkissen und Decke; Schlafsäcke nicht erlaubt). Alternativ kann vor Ort gegen Aufpreis von 7,50 Euro die Bettwäsche auch geliehen werden."
     },
     "costs": {
-      "header": "Wieviel kostet die Con?",
+      "header": "Wie viel kostet die Con?",
       "adults": "Erwachsene: 110 Euro (3 Nächte) / 145 Euro (4 Nächte)",
       "teens": "Teenager von 14 bis 17 Jahren, Studenten, Azubis und Schüler: 90 Euro (3 Nächte) / 125 Euro (4 Nächte)",
       "kids": "Kinder von 4 bis 13 Jahren: 55 Euro (3 Nächte) / 75 Euro (4 Nächte)",
@@ -52,24 +52,24 @@
     },
     "workshops": {
       "header": "Wird es Workshops und die üblichen Aktionen geben?",
-      "text": "Ja, sofern sich Leute finden, die dort (mit-)organisieren bzw. das leiten. Im Forum findet man den aktuellen Stand der Planung. Dort dann zu passenden Unterforum wechseln."
+      "text": "Ja, sofern sich Leute finden, die dort (mit-)organisieren bzw. das leiten. Im Forum findet man den aktuellen Stand der Planung. Dort dann zum passenden Unterforum wechseln."
     }
   },
   "links": {
-    "forum": "Forum",
+    "forum": "Con-Forum ('Der Vaterbaum')",
     "header": "Links",
     "location": "Schullandheim Norken",
     "registration": "Anmeldung",
     "scrollOfColors": "Die Rolle der Farben (Archiv der vergangenen Cons)"
   },
   "location": {
-    "entry": "Das Schullandheim Norken liegt am Rand der Ortsgemeinde Norken auf einem Bergrücken in 460 Metern Höhe. Direkt vor der Haustüre beginnen Wanderwege in die Natur des Westerwaldes. Nur zehn Minuten Autofahrt entfernt liegt die Stadt Hachenburg mit mittelalterlichem Schloss und gemütlicher Fußgängerzone mit zahlreichen Einkaufsmöglichkeiten.",
+    "entry": "Das Schullandheim Norken liegt am Rand der Ortsgemeinde Norken (Köln-Leipziger-Straße 1, 57629 Norken) auf einem Bergrücken in 460 Metern Höhe. Direkt vor der Haustüre beginnen Wanderwege in die Natur des Westerwaldes. Nur zehn Minuten Autofahrt entfernt liegt die Stadt Hachenburg mit mittelalterlichem Schloss und gemütlicher Fußgängerzone mit zahlreichen Einkaufsmöglichkeiten.",
     "header": "Unterkunft"
   },
   "start": {
     "greeting": "Viel Spaß auf der Seite der ElfQuest Con 2027 wünscht eure Orga",
     "header": "Willkommen zur 28. europäischen ElfQuest-Convention",
     "nav": "Start",
-    "subheader": "14. - 17.05.2027 in Norken."
+    "subheader": "14. - 17.05.2027 in Norken"
   }
 }

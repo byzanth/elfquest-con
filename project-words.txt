@@ -5,7 +5,9 @@ Erbuch
 Freizeitheim
 Hachenburg
 Hessen
+Köln
 Larpers
+Leipziger
 Mannenbach
 Nordstrasse
 Norken
@@ -13,6 +15,7 @@ pedestrianised
 Petershof
 Salenstein
 selfcatering
+Straße
 subdir
 subforum
 Wartenberg
