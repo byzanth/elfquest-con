@@ -1,6 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-import { TranslateService, TranslateModule } from '@ngx-translate/core';
-import { of, Subject } from 'rxjs';
+import { provideTranslateService } from '@ngx-translate/core';
 
 import { CreditsComponent } from './credits.component';
 
@@ -8,24 +7,10 @@ describe('CreditsComponent', () => {
   let component: CreditsComponent;
   let fixture: ComponentFixture<CreditsComponent>;
 
-  class TranslateServiceMock {
-    public onLangChange = new Subject();
-    public onTranslationChange = new Subject();
-    public onDefaultLanguageChange = new Subject();
-    public addLangs = () => { return true; };
-    public setDefaultLang = () => { return true; };
-    public use = () => { return true; };
-    public currentLang = 'en';
-    public get = (key: string) => of(key);
-    public instant = (key: string) => key;
-  }
-
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [CreditsComponent, TranslateModule.forRoot()],
-      providers: [
-        { provide: TranslateService, useClass: TranslateServiceMock }
-      ]
+      imports: [CreditsComponent],
+      providers: [provideTranslateService()]
     })
     .compileComponents();
 

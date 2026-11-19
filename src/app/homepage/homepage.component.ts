@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { TranslateModule } from '@ngx-translate/core';
 import { NavigationComponent } from '../navigation/navigation.component';
 import { StartComponent } from '../start/start.component';
 import { LinksComponent } from '../links/links.component';
@@ -11,14 +10,12 @@ import { CreditsComponent } from '../credits/credits.component';
     selector: 'app-homepage',
     templateUrl: './homepage.component.html',
     styleUrls: ['./homepage.component.scss'],
-    standalone: true,
     imports: [
-      TranslateModule, 
-      NavigationComponent, 
-      StartComponent, 
-      LinksComponent, 
-      LocationComponent, 
-      FaqComponent, 
+      NavigationComponent,
+      StartComponent,
+      LinksComponent,
+      LocationComponent,
+      FaqComponent,
       CreditsComponent
     ]
 })

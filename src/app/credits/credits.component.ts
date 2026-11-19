@@ -1,12 +1,11 @@
 import { Component } from '@angular/core';
-import { TranslateModule } from '@ngx-translate/core';
+import { TranslatePipe } from '@ngx-translate/core';
 
 @Component({
     selector: 'app-credits',
     templateUrl: './credits.component.html',
     styleUrls: ['./credits.component.scss'],
-    standalone: true,
-    imports: [TranslateModule]
+    imports: [TranslatePipe]
 })
 export class CreditsComponent {
 }

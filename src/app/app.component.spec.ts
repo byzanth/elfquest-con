@@ -1,33 +1,19 @@
 import { TestBed } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
-import { TranslatePipe, TranslateService, TranslateModule } from '@ngx-translate/core';
-import { of, Subject } from 'rxjs';
+import { provideTranslateService, TranslateService } from '@ngx-translate/core';
 
 import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {
 
-  class TranslateServiceMock {
-    public onLangChange = new Subject();
-    public onTranslationChange = new Subject();
-    public onDefaultLanguageChange = new Subject();
-    public addLangs = () => { return true; };
-    public setDefaultLang = () => { return true; };
-    public use = () => { return true; };
-    public currentLang = 'en';
-    public get = (key: string) => of(key);
-    public instant = (key: string) => key;
-  }
-
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [
         AppComponent,
-        RouterTestingModule,
-        TranslateModule.forRoot()
+        RouterTestingModule
       ],
       providers: [
-        { provide: TranslateService, useClass: TranslateServiceMock }
+        provideTranslateService({ fallbackLang: 'de' }),
       ]
     }).compileComponents();
   });
@@ -38,6 +24,14 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
+  it('initializes German with English and German available', () => {
+    TestBed.createComponent(AppComponent);
+    const translate = TestBed.inject(TranslateService);
+    expect(translate.getCurrentLang()).toBe('de');
+    expect(translate.getFallbackLang()).toBe('de');
+    expect(translate.getLangs()).toContain('en');
+    expect(translate.getLangs()).toContain('de');
+  });
 
 });
 

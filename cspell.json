@@ -9,5 +9,5 @@
     }
   ],
   "dictionaries": ["project-words"],
-  "ignorePaths": ["node_modules", "/project-words.txt", "**.html", "**.js", "**.svg", "**/de.json"]
+  "ignorePaths": ["node_modules", "dist", "coverage", "/project-words.txt", "**.html", "**.js", "**.svg", "**/de.json"]
 }
