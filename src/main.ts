@@ -1,4 +1,4 @@
-import { enableProdMode } from '@angular/core';
+import { enableProdMode, provideZoneChangeDetection } from '@angular/core';
 import { bootstrapApplication } from '@angular/platform-browser';
 
 import { AppComponent } from './app/app.component';
@@ -20,7 +20,7 @@ export function HttpLoaderFactory(http: HttpClient) {
 
 bootstrapApplication(AppComponent, {
   providers: [
-    provideRouter(APP_ROUTES),
+    provideZoneChangeDetection(),provideRouter(APP_ROUTES),
     provideHttpClient(withInterceptorsFromDi()),
     importProvidersFrom(
       TranslateModule.forRoot({
