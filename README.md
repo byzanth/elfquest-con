@@ -1,6 +1,6 @@
 # ElfquestCon2026
 
-This project generates an info page for the elfquest convention 2026 in english and german. The page can be visited here: <http://2026.elfquest-con.de>
+This project generates an info page for the elfquest convention 2027 in english and german. The page can be visited here: <http://2027.elfquest-con.de>
 
 ## Legal
 

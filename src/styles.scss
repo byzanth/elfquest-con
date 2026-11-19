@@ -1,8 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 :root {
-  --navBackgroundColor: #f4c444;
-  --backgroundColor1: #00011f;
-  --backgroundColor2: #7a117a;
+  --navBackgroundColor: #f4c544;
+  --backgroundColor1: #73bd82;
+  --backgroundColor2: #e23448;
   --pageBackgroundColor: white;
   --pageBorderWidth: 3px;
   --desktopWidth: 1200px;
@@ -22,7 +22,6 @@ p, div {
 
 h1 {
   background-color: var(--backgroundColor1);
-  color: white;
   margin-top: 0;
   padding-top: 0;
 }
