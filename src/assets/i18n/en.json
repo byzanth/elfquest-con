@@ -12,12 +12,14 @@
   "faq": {
     "bedclothes": {
       "header": "What do I have to bring?",
-      "text": "Bring a duvet or sleeping bag, mattress cover, pillowcase and towels. Yes, really, bring a duvet or sleeping bag, the thick warm big thing. There's a bedding swap thread in the forum, maybe two elves with transport facilities can help the railway elves?"
+      "text": "Please bring a three-piece set of bed linen (i.e. a sheet and pillowcases and duvet covers; sleeping bags are not permitted). Alternatively, bed linen can be hired on site for an additional charge of €7.50."
     },
     "costs": {
       "header": "How much does the con cost?",
-      "adults": "Participants 14 years and older: 135 Euro (3 nights) / 155 Euro (4 nights)",
-      "kids": "Participants up to 13 years: 115 Euro (3 nights) / 135 Euro (4 nights)"
+      "adults": "Adults: 110 Euro (3 nights) / 145 Euro (4 nights)",
+      "teens": "Participants 14 years up to 17 years, students, apprentices and pupils: 90 Euro (3 nights) / 125 Euro (4 nights)",
+      "kids": "Participants 4 years up to 13 years: 55 Euro (3 nights) / 75 Euro (4 nights)",
+      "children": "Participants up to 3 years: free of charge"
     },
     "daytimeGuest": {
       "header": "Is it possible to come as a day guest?",
@@ -26,7 +28,7 @@
     "header": "FAQ",
     "organizer": {
       "header": "Who is the organizing the event?",
-      "text": "For 2026, several elves / trolls / preservers have agreed to be involved in various organization tasks."
+      "text": "For 2027, several elves / trolls / preservers have agreed to be involved in various organization tasks."
     },
     "pets": {
       "header": "What about pets? Can I bring them with me?",
@@ -42,11 +44,11 @@
     },
     "when": {
       "header": "When will the con take place?",
-      "text": "The convention will take place from 22 - 25 June 2026."
+      "text": "The convention will take place from 14 to 17 May 2027. If you book the extra night, you can arrive as early as 13 May 2027."
     },
     "where": {
       "header": "Where will the con take place?",
-      "text": "This year's convention will take place at Petershof in Erbuch (Hessen). This convention will be a self-catering con."
+      "text": "The convention will take place at the Norken School Camp (Köln-Leipziger-Straße 1, 57629 Norken)."
     },
     "workshops": {
       "header": "Will there be workshops and the usual promotions?",
@@ -56,20 +58,18 @@
   "links": {
     "forum": "Forum",
     "header": "Links",
-    "location": "Petershof Erbuch",
+    "location": "Norken School Camp",
     "registration": "Registration",
     "scrollOfColors": "The Scroll of colors (archive of past cons - german only)"
   },
   "location": {
-    "entry": "The Petershof is an interesting and rustic fox house with a well-equipped kitchen, 60 beds, many group rooms, lots of nature around it and a fireplace.",
+    "entry": "The Norken School Camp is situated on the outskirts of the parish of Norken, on a ridge at an altitude of 460 metres. Walking trails leading into the Westerwald countryside start right on the doorstep. Just a ten-minute drive away lies the town of Hachenburg, with its medieval castle and charming pedestrianised high street offering plenty of shopping opportunities.",
     "header": "Location"
   },
   "start": {
-    "greeting": "Enjoy the page for the ElfQuest Con 2026! Yours, the organization team",
-    "header": "Welcome to the 27. European ElfQuest Convention",
+    "greeting": "Enjoy the page for the ElfQuest Con 2027! Yours, the organization team",
+    "header": "Welcome to the 28. European ElfQuest Convention",
     "nav": "Start",
-    "slogan": "Keep on Dreaming",
-    "subheader": "22 - 25 June 2026 at Petershof in Erbuch",
-    "welcome": "This con will be a self-catering con."
+    "subheader": "14 - 17 June 2027 at Norken"
   }
 }

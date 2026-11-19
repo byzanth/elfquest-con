@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 :root {
-  --navBackgroundColor: #9ce32a;
-  --backgroundColor1: #008f07;
+  --navBackgroundColor: #f4c444;
+  --backgroundColor1: #00011f;
   --backgroundColor2: #7a117a;
   --pageBackgroundColor: white;
   --pageBorderWidth: 3px;
@@ -21,9 +21,10 @@ p, div {
 }
 
 h1 {
-  padding-top: 0;
-  margin-top: 0;
   background-color: var(--backgroundColor1);
+  color: white;
+  margin-top: 0;
+  padding-top: 0;
 }
 h1, h2 {
   text-align: left;

@@ -12,12 +12,14 @@
   "faq": {
     "bedclothes": {
       "header": "Was muss ich mitbringen?",
-      "text": "Mitzubringen sind Bettdecke oder Schlafsack, Matratzenbezug, Kissenbezug und Handtücher. Ja, wirklich, Bettdecke oder Schlafsack mitbringen, also das dicke warme große Ding. Im Forum gibt es einen Bettzeug-Tauschhandel-Thread, vielleicht können Zwootelfen mit Transportmöglichkeiten den Bahnelfen unter die Arme greifen?"
+      "text": "Mitzubringen ist dreiteilige Bettwäsche (also Bettlaken und Bezüge für Kopfkissen und Decke; Schlafsäcke nicht erlaubt). Alternativ kann vor Ort gegen Aufpreis von 7,50€ die Bettwäsche auch geliehen werden."
     },
     "costs": {
       "header": "Wieviel kostet die Con?",
-      "adults": "Teilnehmer ab 14 Jahre: 135 Euro (3 Nächte) / 155 Euro (4 Nächte)",
-      "kids": "Teilnehmer bis 13 Jahre: 115 Euro (3 Nächte) / 135 Euro (4 Nächte)"
+      "adults": "Erwachsene: 110 Euro (3 Nächte) / 145 Euro (4 Nächte)",
+      "teens": "Teenager von 14 bis 17 Jahren, Studenten, Azubis und Schüler: 90 Euro (3 Nächte) / 125 Euro (4 Nächte)",
+      "kids": "Kinder von 4 bis 13 Jahren: 55 Euro (3 Nächte) / 75 Euro (4 Nächte)",
+      "children": "Kleinkinder bis 3 Jahre: kostenlos"
     },
     "daytimeGuest": {
       "header": "Kann man auch als Tagesgast kommen?",
@@ -26,7 +28,7 @@
     "header": "FAQ",
     "organizer": {
       "header": "Wer ist die Orga?",
-      "text": "Für 2026 haben sich mehrere Elfen / Trolle / Bewahrer bereitgefunden sich in verschiedene Orga-Aufgaben hineinzuteilen."
+      "text": "Für 2027 haben sich mehrere Elfen / Trolle / Bewahrer bereitgefunden sich in verschiedene Orga-Aufgaben hineinzuteilen."
     },
     "pets": {
       "header": "Wie ist das mit Haustieren? Darf ich die mitbringen?",
@@ -42,11 +44,11 @@
     },
     "when": {
       "header": "Wann findet die Con statt?",
-      "text": "Die Con findet vom 22. - 25.05.2026 statt."
+      "text": "Die Con findet vom 14. - 17.05.2027 statt. Wenn die Zusatznacht gebucht wird, kann die Anreise bereits am 13.05.2027 erfolgen."
     },
     "where": {
       "header": "Wo findet die Con statt?",
-      "text": "Die Con findet dieses Jahr im Petershof in Erbuch (Hessen) statt. Diese Con wird eine Selbstversorger-Con."
+      "text": "Die Con 2027 findet im Schullandheim Norken statt (Köln-Leipziger-Straße 1, 57629 Norken)."
     },
     "workshops": {
       "header": "Wird es Workshops und die üblichen Aktionen geben?",
@@ -56,20 +58,18 @@
   "links": {
     "forum": "Forum",
     "header": "Links",
-    "location": "Petershof Erbuch",
+    "location": "Schullandheim Norken",
     "registration": "Anmeldung",
     "scrollOfColors": "Die Rolle der Farben (Archiv der vergangenen Cons)"
   },
   "location": {
-    "entry": "Der Petershof ist ein interessanter und rustikaler Fuchsbau mit gut ausgestatteter Küche, 60 Betten, vielen Gruppenräumen, viel Natur drumherum und einer Feuerstelle.",
+    "entry": "Das Schullandheim Norken liegt am Rand der Ortsgemeinde Norken auf einem Bergrücken in 460 Metern Höhe. Direkt vor der Haustüre beginnen Wanderwege in die Natur des Westerwaldes. Nur zehn Minuten Autofahrt entfernt liegt die Stadt Hachenburg mit mittelalterlichem Schloss und gemütlicher Fußgängerzone mit zahlreichen Einkaufsmöglichkeiten.",
     "header": "Unterkunft"
   },
   "start": {
-    "greeting": "Viel Spaß auf der Seite der ElfQuest Con 2026 wünscht eure Orga",
-    "header": "Willkommen zur 27. europäischen ElfQuest-Convention",
+    "greeting": "Viel Spaß auf der Seite der ElfQuest Con 2027 wünscht eure Orga",
+    "header": "Willkommen zur 28. europäischen ElfQuest-Convention",
     "nav": "Start",
-    "slogan": "Keep on Dreaming",
-    "subheader": "22. - 25.05.2026 im Petershof in Erbuch.",
-    "welcome": "Diese Con wird eine Selbstversorger-Con."
+    "subheader": "14. - 17.05.2027 in Norken."
   }
 }
